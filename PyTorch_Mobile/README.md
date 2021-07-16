@@ -9,5 +9,5 @@ TVM과 관련된 자료들을 포함하고 있습니다. 다음과 같은 내용
 MicroTVM은 별도의 세팅 과정이 필요하며, 세팅 과정에서 QEMU 문제로 실행이 불가능함을 확인하였습니다. 
 
 ```cmd
-python xxx.py (opt_gemm.py) # 해당 Python 파일을 직접 실행
+python xxx.py (trace.py) # 해당 Python 파일을 직접 실행
 ```
