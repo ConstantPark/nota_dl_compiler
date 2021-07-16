@@ -9,5 +9,5 @@ DLR은 라즈베라파이에서 실행이 가능함을 확인하였습니다.
 
 
 ```cmd
-python xxx.py (opt_gemm.py) # 해당 Python 파일을 직접 실행
+python xxx.py (DLR.py) # 해당 Python 파일을 직접 실행
 ```
