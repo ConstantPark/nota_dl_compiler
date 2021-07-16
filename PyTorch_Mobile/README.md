@@ -1,7 +1,7 @@
 
 ## PyTorch Mobile with Android/IOS, LibTorch
 TVM과 관련된 자료들을 포함하고 있습니다. 다음과 같은 내용을 포함하고 있습니다.
-- Pytorch Mobile (TorchScript 변환)
+- Pytorch Mobile (TorchScript 변환, torch_script_transform.py)
 - NNAPI
 - LibTorch
 
