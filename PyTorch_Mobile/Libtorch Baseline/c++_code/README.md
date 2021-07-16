@@ -43,5 +43,5 @@ Convert from python weight to c++ weight using **trace.py** → Load converted w
 ### C++ version
 ![python](./sample_data/c++_output.PNG)
 
-## Gihub link
+## Source Code
 [https://github.com/yunseokddi/LibTorchDev/tree/master/Libtorch%20Baseline](https://github.com/yunseokddi/LibTorchDev/tree/master/Libtorch%20Baseline)
