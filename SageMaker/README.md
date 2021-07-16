@@ -1,7 +1,7 @@
 
 ## AWS SageMaker
 SageMaker과 관련된 자료들을 포함하고 있습니다. 다음과 같은 내용을 포함하고 있습니다.
-- SageMaker with MxNet/Pytorch
+- SageMaker with MxNet/Pytorch (PyTorch_VGG)
 - SageMaker Neo (DLR)
  
 SageMaker with MxNet/Pytorch는 AWS 계정에서 반드시 실행되어야 합니다.
