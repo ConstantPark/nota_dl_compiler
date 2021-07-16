@@ -13,7 +13,8 @@ func = relay.Function(args, model)
 
 print(func) 
 
-target = "cuda"
+#target = "cuda"
+target = "llvm"
 context = tvm.gpu(0)
 
 graph, lib, params = relay.build(func, target=target)
